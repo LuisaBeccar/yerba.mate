@@ -1,0 +1,12 @@
+Package: yerba.mate
+Title: Nada como empezar el la jornada con un buen saludo alentador, un cariño al alma como ese primer mate del dia"
+Version: 0.0.0.9000
+Authors@R: 
+    person("Luisa", "Beccar", , "luisabeccarvarela@gmail.com", role = c("aut", "cre"))
+Description: El paquete te da un saludo para que empieces el dia entusiasmado y lleno de energia.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    cli
