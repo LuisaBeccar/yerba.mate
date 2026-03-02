@@ -1,4 +1,3 @@
-setwd("C:/Users/luisa/OneDrive/Documentos/yerba.mate/")
 
 #' Funcion Saludo
 #' @description
